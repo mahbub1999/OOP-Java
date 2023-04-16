@@ -3,8 +3,8 @@ package abstraction;
 public abstract class AbstractcX {
 
 	public void getName() {
-
-		System.out.println("I have a Car");
+		
+		System.out.println("Name");
 
 	}
 
@@ -18,6 +18,6 @@ public abstract class AbstractcX {
 		System.out.println("I need Mobile");
 	}
 
-	public abstract  void getAbstract();
+	public  abstract void getSome();
 
 }
